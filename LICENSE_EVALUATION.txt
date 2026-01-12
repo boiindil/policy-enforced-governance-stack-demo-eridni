@@ -1,0 +1,10 @@
+EVALUATION LICENSE – ERIDNI DEMO
+
+This demo bundle is provided for evaluation and demonstration only.
+No production use. No redistribution. No sublicensing.
+
+The demo intentionally omits production controls (Object Lock, CloudTrail,
+Organizations SCP, KMS hardening, budgets, etc.).
+
+Copyright (c) 2026 Winfried Brueckner (bw-ruah.de)
+All rights reserved.
