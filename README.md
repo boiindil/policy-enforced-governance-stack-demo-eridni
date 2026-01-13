@@ -17,15 +17,7 @@ without deploying any real cloud infrastructure.
 - No budgets
 - No production safeguards
 
-## How to run (local)
-From a demo example folder:
 
-```bash
-terraform init
-terraform plan -out=tfplan
-terraform show -json tfplan > plan.json
-conftest test plan.json -p ../../policy/opa
-```
 
 ## License
 Evaluation-only. See `LICENSE_EVALUATION.txt`.
